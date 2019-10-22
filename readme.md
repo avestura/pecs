@@ -24,3 +24,17 @@ Although you can find some of them in professors webpage.
 ##### Project Assignments
 
 1. Discrete Event Simulation
+
+### Build and Run
+
+For running scripts:
+
+1. Download and install the stable release of [.NET Core 3 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.0)
+2. Run script using `dotnet fsi` command. For example for running DES scripts run:
+
+```powershell
+git clone https://github.com/0xaryan/pecs
+cd .\pecs\src\1-DiscreteEventSimulation
+dotnet fsi .\Sample1.fsx # for the first sample using hardcoded data
+dotnet fsi .\Sample2.fsx # for auto-generated data using expotensial distribution
+```

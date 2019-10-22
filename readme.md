@@ -23,4 +23,4 @@ Although you can find some of them in professors webpage.
 
 ##### Project Assignments
 
-1. Queue Simulation
+1. Discrete Event Simulation

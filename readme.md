@@ -4,7 +4,7 @@ This is a general repo related to "Performance Evaluation of Computer Systems" c
 
 Professor: [Dr. Mohammad Abdollahi Azgomi](http://webpages.iust.ac.ir/azgomi)
 
-Student: [Aryan Ebrahimpour](https://aryan.software)
+Student: [Aryan Ebrahimpour](https://avestura.dev)
 
 Projects Language: [F#](https://dotnet.microsoft.com/languages/fsharp)
 
@@ -33,7 +33,7 @@ For running scripts:
 2. Run script using `dotnet fsi` command. For example for running DES scripts run:
 
 ```powershell
-git clone https://github.com/0xaryan/pecs
+git clone https://github.com/avestura/pecs
 cd .\pecs\src\1-DiscreteEventSimulation
 dotnet fsi .\Sample1.fsx # for the first sample using hardcoded data
 dotnet fsi .\Sample2.fsx # for auto-generated data using expotensial distribution

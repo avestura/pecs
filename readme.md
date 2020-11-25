@@ -33,7 +33,7 @@ For running scripts:
 2. Run script using `dotnet fsi` command. For example for running DES scripts run:
 
 ```powershell
-git clone https://github.com/avestura/pecs
+git clone https://github.com/iust-projects/pecs
 cd .\pecs\src\1-DiscreteEventSimulation
 dotnet fsi .\Sample1.fsx # for the first sample using hardcoded data
 dotnet fsi .\Sample2.fsx # for auto-generated data using expotensial distribution
